@@ -1,3 +1,7 @@
+// 객체 이해하기
+// 참조 자료형인 객체에 대해알아본다.
+
+
 var family =  {
     'address': "Seoul",
     members:{},
